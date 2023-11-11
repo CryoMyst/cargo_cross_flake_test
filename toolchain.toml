@@ -1,5 +1,5 @@
 [toolchain]
 channel = "nightly"
-components = [ "rustfmt", "rust-src" ]
+components = [ "rustc", "cargo", "clippy", "rustfmt", "rust-analyzer", "rust-src", "rust-std" ]
 profile = "complete"
 targets = [ "x86_64-pc-windows-gnu" ]
