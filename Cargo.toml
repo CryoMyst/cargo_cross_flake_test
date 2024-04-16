@@ -1,5 +1,5 @@
 [package]
-name = "flake_overlay"
+name = "cargo_cross_flake_test"
 version = "0.1.0"
 edition = "2021"
 
